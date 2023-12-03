@@ -4,4 +4,4 @@
 # 사용법
 아래 링크를 클릭
 
-https://www.icloud.com/shortcuts/83eb8507e4c641129c9420e62b8b7057
+https://www.icloud.com/shortcuts/721619d72d124ecdb11de5b0614116ed
