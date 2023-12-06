@@ -1,3 +1,5 @@
+![image](assets/image.png)
+
 # KorailTalk-Calendar-Shortcut
 ![platform](https://img.shields.io/badge/platform-iOS-blue)
 
