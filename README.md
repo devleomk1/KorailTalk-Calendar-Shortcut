@@ -3,7 +3,7 @@
 # KorailTalk-Calendar-Shortcut
 ![platform](https://img.shields.io/badge/platform-iOS-blue)
 
-코레일톡에서 예매한 열차표 일정을 캘린더에 추가 가능한 iOS용 단축어
+코레일톡에서 예매한 열차표 일정을 캘린더에 추가하는 iOS용 단축어
 
 # 소개
 코레일톡 캘린더 단축어는 iOS 자동화 기능인 단축어를 이용해, 별도의 어플리케이션 설치 없이, 코레일톡 앱에서 손쉽게 예매한 열차표 일정을 캘린더에 추가 할 수 있습니다.
